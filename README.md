@@ -7,12 +7,16 @@ To Intial Project
 For Backend
 
 -cd backend
+
 -npm i
+
 -npm run server
 
 
 For Frontend
 
 -cd frontend
+
 -npm i
+
 -npm start
