@@ -4,7 +4,20 @@ In this project users can add daily expense and users can filter expenses by yea
 HTML 5, JavaScript, CSS 3,React JS, Node JS, Express JS, Mongo DB( Rest API), Postman.
 
 
-# To Intial Project
+
+### Tools used
+
+- React
+- Axios
+- MongoDB
+- Usestate & UseNevigate
+- Css (grid & flexbox)
+- Media queries
+- JS
+
+### Runing Project Locally
+
+- Install dependencies: 
 
 For Backend
 
@@ -21,7 +34,8 @@ For Frontend
 
 -npm i
 
--npm start
+-`npm start`
+
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/106462901/181164523-aae1358f-c0a7-4b0f-930b-665b6315dc61.png)
 
