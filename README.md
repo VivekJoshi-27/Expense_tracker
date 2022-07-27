@@ -19,22 +19,22 @@ HTML 5, JavaScript, CSS 3,React JS, Node JS, Express JS, Mongo DB( Rest API), Po
 
 - Install dependencies: 
 
-For Backend
+- For Backend
 
--cd backend
+cd backend
 
--npm i
+npm i
 
--npm run server
+`npm run server`
 
 
-For Frontend
+- For Frontend
 
--cd frontend
+cd frontend
 
--npm i
+npm i
 
--`npm start`
+`npm start`
 
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/106462901/181164523-aae1358f-c0a7-4b0f-930b-665b6315dc61.png)
